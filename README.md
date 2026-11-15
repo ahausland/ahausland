@@ -1,10 +1,25 @@
 ## Hi, I'm Alexis
 
+```text
+                    _
+                  _(_)_                          wWWWw   _
+      @@@@       (_)@(_)   vVVVv     _     @@@@  (___) _(_)_
+     @@()@@ wWWWw  (_)\    (___)   _(_)_  @@()@@   Y  (_)@(_)
+      @@@@  (___)     `|/    Y    (_)@(_)  @@@@   \|/   (_)\
+       /      Y       \|    \|/    /(_)    \|      |/      |
+    \ |     \ |/       | / \ | /  \|/       |/    \|      \|/
+jgs \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|// 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+```
+ASCII art by Joan G. Stark (Spunk)
+<!-- https://www.asciiart.eu/art/c13811975c653c48 -->
+
+
 <!-- real time moon image from https://github.com/hmu332233/moon.svg-->
 <!-- [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev) -->
 
 ## About Me
-- I recently graduated with an M.S. in Computational Social Science.
+- I recently graduated with an M.S. in [Computational Social Science](https://css.ucsd.edu/).
 - I'm looking for data analyst roles involving social, behavioral, customer, or public-sector data, where I can combine quantitative analysis with an understanding of human behavior.
 - Currently, I'm learning Snowflake fundamentals and building a Formula One Streamlit dashboard with Jolpica API.
 - In my free time, I enjoy baking for friends and family.
